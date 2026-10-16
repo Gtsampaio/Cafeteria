@@ -31,6 +31,10 @@ O projeto foi desenvolvido com finalidade educacional e de prática, visando con
 
 Durante o desenvolvimento, são praticados conceitos de estrutura HTML, organização de conteúdo, seletores CSS, cores, tipografia, espaçamentos, posicionamento de elementos e construção de interfaces web.
 
+## Referência e Créditos
+
+Projeto desenvolvido para fins educacionais, com base no tutorial [Novo Projeto | Criando um Site novo de Cafeteria](https://www.youtube.com/watch?v=v1jVqO6dx9A), disponível no YouTube. O código foi acompanhado e reproduzido com o objetivo de praticar os conceitos de HTML e CSS apresentados.
+
 ## Contribuições
 
 Este projeto possui finalidade educacional e de aprendizado, servindo como prática dos conhecimentos adquiridos durante o curso do Instituto PROA. Sugestões de melhorias são bem-vindas!
